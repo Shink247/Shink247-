@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shinora Khan!
 
 🎓 MBA Candidate at the University of California, Riverside – A. Gary Anderson Graduate School of Management   
-💼 Specializing in Marketing and Human Resources | Passionate about building people-first business strategies, creative campaigns, and tech-enabled solutions
+💼 Specializing in Human Resources and Marketing | Passionate about building people-first business strategies, creative campaigns, and tech-enabled solutions
 On a mission to make workplaces smarter with AI-powered analytics and digital empathy.
 
 ---
